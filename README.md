@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ayoub Khezzaz!
+# 👋 Hi, I'm Ayoub !
 
 Engineering student specializing in Data Science, Artificial Intelligence, and Full-Stack Development.  
 
